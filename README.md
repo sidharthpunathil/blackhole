@@ -26,6 +26,6 @@ Before you begin, make sure you have Rust installed on your machine. If you have
    ```bash
    rustc main.rs 
 
-   ./script.exe <folderPath>
+   ./main.exe <folderPath>
 
 4. Or You can just use the executable ;)
