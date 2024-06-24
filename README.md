@@ -5,7 +5,7 @@
 
 
 
-> This guide can be incredibly valuable when you're short on time and need a quick way to back up your projects.
+> This guide can be incredibly valuable when you're short on time and need a quick way to back up your scripts.
 
 ## Compiling and Running a Rust File
 
